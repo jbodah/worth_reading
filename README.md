@@ -8,3 +8,5 @@ a list of things worth reading
 ## Books
 
 [Designing Data-Intensive Applications](https://dataintensive.net/) - A tour of the "why" behind different database systems and their differences. It covers a lot of excellent topics including sharding, replication, consensus, and performance. It focuses on giving you the knowledge to recognize tradeoffs
+
+[The Algorithm Design Manual](http://www.algorist.com/) - A clear and concise reference for algorithms and data structures. Covers most of the important topics including analytical topics like intractibility
