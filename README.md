@@ -5,6 +5,8 @@ a list of things worth reading
 
 [No Kings: How Do You Make Good Decisions Efficiently in a Flat Organization?](https://doist.com/blog/decision-making-flat-organization/) - Covers how the IETF avoids bikeshedding by having a clear decision making process that asks "can anyone not live with this?" instead of "does anyone have issues with this?"
 
+[Things I Learnt the Hard Way (in 30 Years of Software Devolpment)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/) - A summary of best practices learned from experience ranging from low-level code decisions to high-level team processes. It even includes comments on soft skills (like micro-aggressions) and recommends how to handle them
+
 ## Sites
 
 [Relearn CSS Layout](https://every-layout.dev/) - Provides a thorough summary of all of the major pure CSS layouts. It's a refreshing callback to the simplicity and power of CSS when it is done right
