@@ -7,6 +7,8 @@ a list of things worth reading/watching
 
 [Things I Learnt the Hard Way (in 30 Years of Software Devolpment)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/) - A summary of best practices learned from experience ranging from low-level code decisions to high-level team processes. It even includes comments on soft skills (like micro-aggressions) and recommends how to handle them
 
+[Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - A list-format post which calls out many of the nuances and complexities around times and dates
+
 ## Sites
 
 [Relearn CSS Layout](https://every-layout.dev/) - Provides a thorough summary of all of the major pure CSS layouts. It's a refreshing callback to the simplicity and power of CSS when it is done right
