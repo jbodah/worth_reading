@@ -9,6 +9,8 @@ a list of things worth reading/watching
 
 [Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - A list-format post which calls out many of the nuances and complexities around times and dates
 
+[Ruby concurrency: in praise of condition variables](https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_condition_variables/) - Condition variables are an important low-level concurrency feature. This post describes how they work and why/how to use them
+
 ## Sites
 
 [Relearn CSS Layout](https://every-layout.dev/) - Provides a thorough summary of all of the major pure CSS layouts. It's a refreshing callback to the simplicity and power of CSS when it is done right
