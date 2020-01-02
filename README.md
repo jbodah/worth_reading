@@ -11,6 +11,8 @@ a list of things worth reading/watching
 
 [Ruby concurrency: in praise of condition variables](https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_condition_variables/) - Condition variables are an important low-level concurrency feature. This post describes how they work and why/how to use them
 
+[Jepsen](https://aphyr.com/tags/jepsen) - A series of posts where the author runs detailed experiments causing network partitions in real databases using custom scripts to measure data loss and consistency anomalies under various configurations
+
 ## Sites
 
 [Relearn CSS Layout](https://every-layout.dev/) - Provides a thorough summary of all of the major pure CSS layouts. It's a refreshing callback to the simplicity and power of CSS when it is done right
