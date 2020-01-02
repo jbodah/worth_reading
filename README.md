@@ -21,6 +21,8 @@ a list of things worth reading/watching
 
 [The Algorithm Design Manual](http://www.algorist.com/) - A clear and concise reference for algorithms and data structures. Covers most of the important topics including analytical topics like intractibility
 
+[Distributed Systems for Fun & Profit](http://book.mixu.net/distsys/) - A concise but extensive summary of the major topics in distributed systems
+
 ## Lectures
 
 [Andy Pavlo - Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) -  An excellent, clear, and well-paced set of lectures about how traditional DB systems work under the hood
