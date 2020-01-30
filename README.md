@@ -13,6 +13,8 @@ a list of things worth reading/watching
 
 [Jepsen](https://aphyr.com/tags/jepsen) - A series of posts where the author runs detailed experiments causing network partitions in real databases using custom scripts to measure data loss and consistency anomalies under various configurations
 
+[How to Metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7) - This blog post has some good recommendations for how to construct your metrics charts and alarms
+
 ## Sites
 
 [Relearn CSS Layout](https://every-layout.dev/) - Provides a thorough summary of all of the major pure CSS layouts. It's a refreshing callback to the simplicity and power of CSS when it is done right
