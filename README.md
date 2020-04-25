@@ -21,6 +21,8 @@ a list of things worth reading/watching
 
 [Relearn CSS Layout](https://every-layout.dev/) - Provides a thorough summary of all of the major pure CSS layouts. It's a refreshing callback to the simplicity and power of CSS when it is done right
 
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - A meta-list of "Build Your Own..." programming tutorials
+
 ## Books
 
 [Designing Data-Intensive Applications](https://dataintensive.net/) - A tour of the "why" behind different database systems and their differences. It covers a lot of excellent topics including sharding, replication, consensus, and performance. It focuses on giving you the knowledge to recognize tradeoffs
