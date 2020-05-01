@@ -17,6 +17,8 @@ a list of things worth reading/watching
 
 [95%-ile isn't that good](https://danluu.com/p95-skill/) - An interesting blog post about how deliberate practice leads to expertise simply because there is often a lack of serious competition. It includes some interesting ideas for incorporating deliberate practice in your day-to-day programming
 
+[Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html) - A humble post of tips
+
 ## Sites
 
 [Relearn CSS Layout](https://every-layout.dev/) - Provides a thorough summary of all of the major pure CSS layouts. It's a refreshing callback to the simplicity and power of CSS when it is done right
