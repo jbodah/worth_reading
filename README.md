@@ -27,6 +27,8 @@ a list of things worth reading/watching
 
 [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - A meta-list of "Build Your Own..." programming tutorials
 
+[Paul's Online Notes](http://tutorial.math.lamar.edu/) - For those days when you need to remember how Calculus works
+
 ## Books
 
 [Designing Data-Intensive Applications](https://dataintensive.net/) - A tour of the "why" behind different database systems and their differences. It covers a lot of excellent topics including sharding, replication, consensus, and performance. It focuses on giving you the knowledge to recognize tradeoffs
